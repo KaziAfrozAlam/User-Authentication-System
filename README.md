@@ -22,11 +22,8 @@ The project is made up of a single source file:
 ### Main Functions
 
 - **register_user()**: Handles user registration. It ensures a unique username and stores the user details in memory. Also includes a placeholder for verification code handling.
-- 
 - **login()**: Allows users to log in by validating their credentials (username and password) against previously registered users.
-- 
 - **valid_username()**: Checks if the entered username already exists.
-- 
 - **valid_credentials()**: Verifies if the provided username and password match any registered user.
 - **send_verification_code()**: Placeholder function to simulate sending a verification code to the user's email and phone.
 - **valid_verification_code()**: Placeholder function to validate a user's verification code.
@@ -34,12 +31,15 @@ The project is made up of a single source file:
 ## How to Use
 
 1. **Clone the repository:**
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/yourusername/your-repo-name.git 
    cd your-repo-name
+   
 2. **Compile the code:**
    gcc source.c -o login_system
+   
 3. **Run the program:**
    ./login_system
+   
 4. **The program provides a simple menu where you can:**
     Register a new user.
     Log in using an existing username and password.
@@ -71,7 +71,9 @@ Access granted!
 
 ## Future Enhancements
 **Password Strength Validation:** Implement checks to ensure passwords meet security criteria (minimum length, inclusion of special characters, etc.).
+
 **Email and Phone Verification:** Add actual functionality for sending and validating verification codes.
+
 **Persistent Storage:** Store user data in a file or database for persistence.
 
 ## Contributing
