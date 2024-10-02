@@ -22,8 +22,11 @@ The project is made up of a single source file:
 ### Main Functions
 
 - **register_user()**: Handles user registration. It ensures a unique username and stores the user details in memory. Also includes a placeholder for verification code handling.
+- 
 - **login()**: Allows users to log in by validating their credentials (username and password) against previously registered users.
+- 
 - **valid_username()**: Checks if the entered username already exists.
+- 
 - **valid_credentials()**: Verifies if the provided username and password match any registered user.
 - **send_verification_code()**: Placeholder function to simulate sending a verification code to the user's email and phone.
 - **valid_verification_code()**: Placeholder function to validate a user's verification code.
