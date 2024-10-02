@@ -50,14 +50,21 @@ The project is made up of a single source file:
 1. Register
 2. Login
 3. Exit
+   
 Enter your choice: 1
 
 Enter a new username: john_doe
+
 Enter a new password: securePass123
+
 Enter your email: john@example.com
+
 Enter your phone number: 123-456-7890
+
 Verification code sent to email: john@example.com and phone: 123-456-7890
+
 Enter the verification code sent to your email and phone: 1234
+
 Registration successful!
 
 1. Register
