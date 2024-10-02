@@ -31,11 +31,13 @@ The project is made up of a single source file:
 ## How to Use
 
 1. **Clone the repository:**
+   
    git clone https://github.com/yourusername/your-repo-name.git
    
    cd your-repo-name
    
 2. **Compile the code:**
+   
    gcc source.c -o login_system
    
 3. **Run the program:**
@@ -43,8 +45,11 @@ The project is made up of a single source file:
    ./login_system
    
 4. **The program provides a simple menu where you can:**
+   
     Register a new user.
+   
     Log in using an existing username and password.
+   
     Exit the application.
 
 ## Example Usage
