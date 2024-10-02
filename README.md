@@ -31,13 +31,15 @@ The project is made up of a single source file:
 ## How to Use
 
 1. **Clone the repository:**
-   git clone https://github.com/yourusername/your-repo-name.git 
+   git clone https://github.com/yourusername/your-repo-name.git
+   
    cd your-repo-name
    
 2. **Compile the code:**
    gcc source.c -o login_system
    
 3. **Run the program:**
+   
    ./login_system
    
 4. **The program provides a simple menu where you can:**
@@ -73,7 +75,9 @@ Registration successful!
 Enter your choice: 2
 
 Enter username: john_doe
+
 Enter password: securePass123
+
 Access granted!
 
 ## Future Enhancements
@@ -87,4 +91,5 @@ Access granted!
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to submit a pull request or open an issue.
 
 Happy coding! 😊
+
 This **README.md** provides a clear overview of the project, instructions on how to use it, and suggestions for future improvements. You can adjust the repository URL, project name, and other details as needed.
