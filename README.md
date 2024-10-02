@@ -1,4 +1,4 @@
-# Simple C Registration and Login System
+# User Authentication System
 
 This is a basic **C** program that implements a simple registration and login system. It allows users to register with a unique username, password, email, and phone number. The system also includes basic login functionality with username and password validation.
 
